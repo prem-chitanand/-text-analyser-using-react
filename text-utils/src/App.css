@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.btn-primary{
+margin-left: 4px;
+ }
+.btn-danger{
+  margin-left: 4px;
+}
+.btn-warning{
+  margin-left: 4px;
+}
+body{
+  background-color:floralwhite;
+}
+.jumbotron{
+  border-radius: 10px;
+}
+.navbar{
+  background-color: rgb(53, 51, 51);
+  color: black;
+}
+.thumbnail{
+  margin-right: 2px;
+}
